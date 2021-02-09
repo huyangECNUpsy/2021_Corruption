@@ -2,7 +2,7 @@
 ## This repository collects data and codes of the fMRI project "the neural basis of corruption in power-holders"
 ### The "data" folder contains the following:
 #### The merged behavioral data (./behavior) and simulated data using winning model (./behavior/winmodel_simulation) 
-#### The second-level results of the GLM & gPPI results (./fMRI/GLM&gPPI) 
+#### The second-level results of the GLM & gPPI analyses (./fMRI/GLM&gPPI) 
 #### The fMRI data for multivariate analyses (./fMRI/MultivariateAnalyses)
 #### All roi data for plots (./fMRI/roi)
 
