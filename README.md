@@ -1,4 +1,4 @@
-# 2021_Corruption
+# 2021_fMRI_Corruption
 ## This repository collects data and codes of the fMRI project "the neural basis of corruption in power-holders"
 ### The "data" folder contains the following:
 #### The merged behavioral data (./behavior) and simulated data using winning model (./behavior/winmodel_simulation) 
